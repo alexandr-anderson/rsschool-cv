@@ -57,3 +57,13 @@ const App = (props) => {
 
 export default App;
 ```
+## Education
+* Kirishskiy Polytech College (Gas-electro welder)
+* Courses
+    * CS50
+    * JetBrains Academy
+    * HTML Academy
+
+## Languages
+* Russian - Nativ
+* English - A2 (B1 in the process)
